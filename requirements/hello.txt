@@ -1,8 +1,3 @@
-# Python dependencies required for development
-astunparse
-expecttest
-hypothesis
-numpy
 psutil
 pyyaml
 requests
@@ -14,7 +9,4 @@ filelock
 networkx
 jinja2
 fsspec
-# setuptools was removed from default python install
-setuptools ; python_version >= "3.12"
-packaging
-optree>=0.9.1
+
